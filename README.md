@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-Perubahan ke-3
+Belajar Github di Dicoding sangat menyenangkan.
+Mendokumentasikan dengan Github menjadi lebih mudah.
