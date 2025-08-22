@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Perubahan ke-1
+Perubahan ke-2
